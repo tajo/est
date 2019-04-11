@@ -1,5 +1,6 @@
 {
-  "name": "with-socket.io",
+  "name": "est",
+  "private": true,
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.15.2",
