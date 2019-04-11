@@ -1,7 +1,7 @@
 {
   "name": "est",
-  "private": true,
   "version": "1.0.0",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.15.2",
     "isomorphic-unfetch": "^2.0.0",
