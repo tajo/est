@@ -5,7 +5,7 @@
   "dependencies": {
     "express": "^4.15.2",
     "isomorphic-unfetch": "^2.0.0",
-    "next": "^8.0.4",
+    "next": "^9.3.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "socket.io": "^2.2.0",
